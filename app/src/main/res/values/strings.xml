@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">imc- app</string>
+    <string name="Hello_Word">Hello World!</string>
+    <string name="calcular">Calcular</string>
+    <string name="imc">IMC</string>
+</resources>
